@@ -2,7 +2,7 @@
 
 Submitted by: **👉🏿 Reneca Capuno**
 
-About this web app: **👉🏿 Enables users to browse, add, and manage content creators through a clean interface that retrieves and displays data from a Supabase database**
+About this web app: **👉🏿 Enables users to browse, add, and manage content creators through a clean interface that sends, retrieves and displays data from a Supabase database**
 
 Time spent: **👉🏿 5** hours
 
