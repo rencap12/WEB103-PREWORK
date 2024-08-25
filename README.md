@@ -51,6 +51,7 @@ GIF created with ...  👉🏿 LICEcap
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 - Organizing components and pages so it is intuitive for the user
 - Passing correct attributes
+- Ensuring the design/format of the cards was consistent
 
 ## License
 
